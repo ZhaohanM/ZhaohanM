@@ -7,5 +7,3 @@
 - 🔭 Research Interests: Knowledge Graph, Multi-Modal Learning, Large Language Model and AI4Science.
 <!-- - If you are interested in my field of work, any form of **collaboration and communication** is welcome. -->
 - 📫 How to reach me: z.meng.3@research.gla.ac.uk
-
-![](https://visitor-badge.laobi.icu/badge?page_id=hackerchenzhuo.visitor-badge)
