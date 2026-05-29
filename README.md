@@ -5,6 +5,6 @@
 #### About me
 - 👨‍🎓 I am a PhD candidate in [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/). 👉 [[Home Page]](https://www.gla.ac.uk/pgrs/zhaohanmeng/)
 - 🔬 Lab: [Glasgow Information Retrieval Group ](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#currentstaffandstudents) and [Glasgow AI4BioMed Lab](https://ai4biomed.org)
-- 🔭 Research Interests: Scientific AI Agents, AI4Health, Knowledge Graph and Computational Biology.
+- 🔭 Research Interests: Scientific AI Agents, Protein Foundation Model and Computational Biology.
 <!-- - If you are interested in my field of work, any form of **collaboration and communication** is welcome. -->
 - 📫 How to reach me: z.meng.3@research.gla.ac.uk
