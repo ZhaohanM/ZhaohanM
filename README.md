@@ -44,7 +44,7 @@
 
 - 🏥 &nbsp;Visiting Research Scholar, Brigham and Women's Hospital, Harvard Medical School
 - 🎓 &nbsp;PhD candidate in Computing Science, University of Glasgow
-- 🔬 &nbsp;Labs: [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#currentstaffandstudents) &nbsp;·&nbsp; [ANative-Lab](https://anative.ai) &nbsp;·&nbsp; Loscalzo Laboratory
+- 🔬 &nbsp;Labs: [Glasgow Information Retrieval Group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/#currentstaffandstudents) &nbsp;·&nbsp; [AI for Cancer Research](https://www.crukscotlandinstitute.ac.uk/research/research-groups/ai-for-cancer-research/) &nbsp;·&nbsp; [ANative-Lab](https://anative.ai) &nbsp;·&nbsp; Loscalzo Laboratory
 - 🔭 &nbsp;Research interests:
   - **AI Agents for Scientific Discovery**
   - **Computational Biology**
